@@ -4,7 +4,9 @@ A modern implementation of the classic Tic-Tac-Toe game built with **React** and
 
 ## 🚀 Live Demo
 
-https://tic-tac-toe-cyan-xi.vercel.app
+[https://tic-tac-toe-cyan-xi.vercel.app](https://tic-tac-toe-cyan-xi.vercel.app)
+
+![Main Screen](screenshots/main-screen.png)
 
 ---
 
@@ -20,6 +22,15 @@ https://tic-tac-toe-cyan-xi.vercel.app
 * 🏆 Winner detection logic
 * 🤝 Draw detection
 * 🔁 Game restart functionality
+
+### Screenshots
+
+![Gameplay](screenshots/gameplay.png)
+*Gameplay in progress*
+
+
+![Game Over](screenshots/game-over.png)
+*Winner detection example*
 
 ---
 
